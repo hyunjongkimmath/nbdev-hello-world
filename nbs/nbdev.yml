@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev-hello-world"
+  site-url: "https://hyunjongkimmath.github.io/nbdev-hello-world"
+  description: "Just an exercise with the nbdev tutorial: https://nbdev.fast.ai/tutorials/tutorial.html"
+  repo-branch: main
+  repo-url: "https://github.com/hyunjongkimmath/nbdev-hello-world"
